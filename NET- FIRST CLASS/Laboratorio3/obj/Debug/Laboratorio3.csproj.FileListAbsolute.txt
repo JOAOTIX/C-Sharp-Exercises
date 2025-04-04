@@ -1,0 +1,10 @@
+C:\NET\Laboratorio3\bin\Debug\Laboratorio3.exe.config
+C:\NET\Laboratorio3\bin\Debug\Laboratorio3.exe
+C:\NET\Laboratorio3\bin\Debug\Laboratorio3.pdb
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.csproj.AssemblyReference.cache
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.Form1.resources
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.Properties.Resources.resources
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.csproj.GenerateResource.cache
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.exe
+C:\NET\Laboratorio3\obj\Debug\Laboratorio3.pdb

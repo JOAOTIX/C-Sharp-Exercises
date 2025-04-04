@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\frmalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|solutionrelative:frmalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|c:\\users\\kjhonatan\\downloads\\net\\laboratorio4\\frmalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|solutionrelative:frmalmacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|c:\\users\\kjhonatan\\downloads\\net\\laboratorio4\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|c:\\users\\kjhonatan\\downloads\\net\\laboratorio4\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737ED29A-8983-4787-9D51-61DF665961DA}|Laboratorio4.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmLogin.cs",
+              "RelativeToolTip": "FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:42:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:41:19.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAlmacen.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmAlmacen.cs",
+              "RelativeDocumentMoniker": "FrmAlmacen.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmAlmacen.cs",
+              "RelativeToolTip": "FrmAlmacen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:49:39.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAlmacen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmAlmacen.cs",
+              "RelativeDocumentMoniker": "FrmAlmacen.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\NET\\Laboratorio4\\FrmAlmacen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmAlmacen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:09:40.735Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
