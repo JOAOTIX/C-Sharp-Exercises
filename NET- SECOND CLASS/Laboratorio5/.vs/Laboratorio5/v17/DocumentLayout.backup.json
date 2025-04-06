@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|c:\\users\\kjhonatan\\source\\repos\\net- second class\\laboratorio5\\laboratorio5\\class\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\class\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\class\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\class\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\registrarproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\registrarproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\registrarproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\registrarproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\listarproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\listarproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\listarproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\listarproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\almacenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\almacenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\laboratorio5\\almacenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E5C1B51-82D5-4D9C-9A29-207087C94673}|Laboratorio5\\Laboratorio5.csproj|solutionrelative:laboratorio5\\almacenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrarProduct.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\RegistrarProduct.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\RegistrarProduct.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\RegistrarProduct.cs",
+              "RelativeToolTip": "Laboratorio5\\RegistrarProduct.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:14:52.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarProduct.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\RegistrarProduct.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\RegistrarProduct.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\RegistrarProduct.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio5\\RegistrarProduct.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:09:35.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarProducts.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\ListarProducts.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\ListarProducts.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\ListarProducts.cs",
+              "RelativeToolTip": "Laboratorio5\\ListarProducts.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:29:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListarProducts.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\ListarProducts.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\ListarProducts.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\ListarProducts.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio5\\ListarProducts.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:23:07.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Class\\Producto.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\Class\\Producto.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Class\\Producto.cs",
+              "RelativeToolTip": "Laboratorio5\\Class\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:41:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConectarBD.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Class\\ConectarBD.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\Class\\ConectarBD.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Class\\ConectarBD.cs",
+              "RelativeToolTip": "Laboratorio5\\Class\\ConectarBD.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:41:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlmacenView.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\AlmacenView.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\AlmacenView.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\AlmacenView.cs",
+              "RelativeToolTip": "Laboratorio5\\AlmacenView.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:51:28.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlmacenView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\AlmacenView.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\AlmacenView.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\AlmacenView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio5\\AlmacenView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:50:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Login.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\Login.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Login.cs",
+              "RelativeToolTip": "Laboratorio5\\Login.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:48:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Login.cs",
+              "RelativeDocumentMoniker": "Laboratorio5\\Login.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- SECOND CLASS\\Laboratorio5\\Laboratorio5\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio5\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:41:13.342Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

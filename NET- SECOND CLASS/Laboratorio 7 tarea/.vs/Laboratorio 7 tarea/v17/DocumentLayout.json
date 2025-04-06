@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|c:\\users\\kjhonatan\\source\\repos\\laboratorio 7 tarea\\laboratorio 7 tarea\\class\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\class\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\mostrarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\mostrarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\mostrarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\mostrarasistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\class\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\class\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\agregarpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\agregarpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\agregarpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\agregarpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\laboratorio 7 tarea\\class\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F40F0F5-741E-4FB0-8F29-4A74FC399E3B}|Laboratorio 7 tarea\\Laboratorio 7 tarea.csproj|solutionrelative:laboratorio 7 tarea\\class\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Class\\Asistencia.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\Class\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Class\\Asistencia.cs",
+              "RelativeToolTip": "Laboratorio 7 tarea\\Class\\Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:16:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MostrarAsistencia.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\MostrarAsistencia.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\MostrarAsistencia.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\MostrarAsistencia.cs",
+              "RelativeToolTip": "Laboratorio 7 tarea\\MostrarAsistencia.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:12:11.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MostrarAsistencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\MostrarAsistencia.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\MostrarAsistencia.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\MostrarAsistencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio 7 tarea\\MostrarAsistencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:05:00.478Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConectarBD.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Class\\ConectarBD.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\Class\\ConectarBD.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Class\\ConectarBD.cs",
+              "RelativeToolTip": "Laboratorio 7 tarea\\Class\\ConectarBD.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:44:27.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Class\\Personal.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\Class\\Personal.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Class\\Personal.cs",
+              "RelativeToolTip": "Laboratorio 7 tarea\\Class\\Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:43:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgregarPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\AgregarPersonal.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\AgregarPersonal.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\AgregarPersonal.cs",
+              "RelativeToolTip": "Laboratorio 7 tarea\\AgregarPersonal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:40:47.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarPersonal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\AgregarPersonal.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\AgregarPersonal.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\AgregarPersonal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio 7 tarea\\AgregarPersonal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:39:28.359Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Login.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\Login.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Login.cs",
+              "RelativeToolTip": "Laboratorio 7 tarea\\Login.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:38:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Login.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7 tarea\\Login.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\Laboratorio 7 tarea\\Laboratorio 7 tarea\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio 7 tarea\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:34:19.948Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Laboratorio 7 tarea.exe.config
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Laboratorio 7 tarea.exe
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Laboratorio 7 tarea.pdb
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Google.Protobuf.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\MySql.Data.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Buffers.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.IO.Pipelines.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Memory.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\ZstdSharp.dll
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Google.Protobuf.pdb
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Google.Protobuf.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\MySql.Data.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Buffers.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.IO.Pipelines.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Memory.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio 7 tarea.csproj.AssemblyReference.cache
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio_7_tarea.Properties.Resources.resources
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio 7 tarea.csproj.GenerateResource.cache
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio 7 tarea.csproj.CoreCompileInputs.cache
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laborato.ABEED6C9.Up2Date
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio 7 tarea.exe
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio 7 tarea.pdb
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio_7_tarea.AgregarPersonal.resources
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio_7_tarea.Login.resources
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\obj\Debug\Laboratorio_7_tarea.MostrarAsistencia.resources
+C:\Users\KJhonatan\source\repos\Laboratorio 7 tarea\Laboratorio 7 tarea\bin\Debug\System.Configuration.ConfigurationManager.xml
