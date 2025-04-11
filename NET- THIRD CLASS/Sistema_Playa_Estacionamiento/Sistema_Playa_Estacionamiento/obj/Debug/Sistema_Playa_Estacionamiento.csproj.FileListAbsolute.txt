@@ -1,0 +1,143 @@
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.exe.config
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.exe
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.pdb
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\MySql.Data.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Buffers.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Memory.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\ZstdSharp.dll
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\MySql.Data.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Buffers.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Memory.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Login.resources
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_.AA93C2AD.Up2Date
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.exe
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.pdb
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Registrar.resources
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.IngresarCliente.resources
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Caja.resources
+C:\Users\Alumno\source\repos\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Pagar.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.exe.config
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.exe
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.pdb
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\MySql.Data.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Buffers.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.IO.Pipelines.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Memory.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\ZstdSharp.dll
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.pdb
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\MySql.Data.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Buffers.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.IO.Pipelines.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Memory.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Caja.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.IngresarCliente.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Login.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Pagar.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Properties.Resources.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Registrar.resources
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_.AA93C2AD.Up2Date
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.exe
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.pdb
+C:\Users\KJhonatan\Downloads\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Boletas.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.exe.config
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.exe
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Sistema_Playa_Estacionamiento.pdb
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\MySql.Data.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Buffers.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.IO.Pipelines.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Memory.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\ZstdSharp.dll
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.pdb
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Google.Protobuf.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\MySql.Data.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Buffers.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.IO.Pipelines.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Memory.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Boletas.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Caja.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.IngresarCliente.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Login.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Pagar.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Properties.Resources.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.Registrar.resources
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_.AA93C2AD.Up2Date
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.exe
+C:\Users\KJhonatan\source\repos\NET- THIRD CLASS\Sistema_Playa_Estacionamiento\Sistema_Playa_Estacionamiento\obj\Debug\Sistema_Playa_Estacionamiento.pdb

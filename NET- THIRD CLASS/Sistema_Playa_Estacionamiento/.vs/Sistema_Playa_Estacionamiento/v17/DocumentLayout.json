@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|c:\\users\\kjhonatan\\source\\repos\\net- third class\\sistema_playa_estacionamiento\\sistema_playa_estacionamiento\\class\\database\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\database\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\boletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\boletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\class\\users\\ticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\users\\ticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\class\\users\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\users\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\boletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\boletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\class\\users\\boletaserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\users\\boletaserie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\class\\users\\boletacab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\users\\boletacab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\class\\users\\boletadet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\users\\boletadet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\class\\users\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\class\\users\\boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\ingresarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\ingresarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\pagar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\sistema_playa_estacionamiento\\ingresarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905CDF64-CFF8-4209-8C02-9826AD788D5B}|Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento.csproj|solutionrelative:sistema_playa_estacionamiento\\ingresarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boletas.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Boletas.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Boletas.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Boletas.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Boletas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:49:22.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boletas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Boletas.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Boletas.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Boletas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Boletas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:48:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Boleta.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\Boleta.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\Users\\Boleta.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\Boleta.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\Users\\Boleta.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:35:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoletaDet.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaDet.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaDet.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaDet.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaDet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:23:19.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoletaCab.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaCab.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaCab.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaCab.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaCab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:01:38.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoletaSerie.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaSerie.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaSerie.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaSerie.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\Users\\BoletaSerie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:41:46.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IngresarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\IngresarCliente.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\IngresarCliente.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\IngresarCliente.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\IngresarCliente.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:17:33.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngresarCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\IngresarCliente.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\IngresarCliente.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\IngresarCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\IngresarCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T04:17:31.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketView.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\TicketView.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\Users\\TicketView.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\TicketView.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\Users\\TicketView.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:35:05.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\Ticket.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\Users\\Ticket.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\Users\\Ticket.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\Users\\Ticket.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:53:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConectarBD.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\DataBase\\ConectarBD.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Class\\DataBase\\ConectarBD.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Class\\DataBase\\ConectarBD.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Class\\DataBase\\ConectarBD.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAEwBQBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:51:04.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagar.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Pagar.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Pagar.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Pagar.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Pagar.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:50:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pagar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Pagar.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Pagar.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Pagar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Pagar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:50:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Caja.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Caja.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Caja.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Caja.cs",
+              "RelativeToolTip": "Sistema_Playa_Estacionamiento\\Caja.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:50:26.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Caja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- THIRD CLASS\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Caja.cs",
+              "RelativeDocumentMoniker": "Sistema_Playa_Estacionamiento\\Caja.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Caja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Sistema_Playa_Estacionamiento\\Sistema_Playa_Estacionamiento\\Caja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:50:21.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
