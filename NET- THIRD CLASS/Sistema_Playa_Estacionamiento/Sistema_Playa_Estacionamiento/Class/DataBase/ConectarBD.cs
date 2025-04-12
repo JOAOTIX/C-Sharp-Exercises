@@ -246,8 +246,8 @@ namespace Sistema_Playa_Estacionamiento.Class.DataBase
             int res = -1;
             string numeroBoleta = serie.serie + "-" + serie.cantidad_emitida.ToString();
             
-            double sub_total = ticket.minutos.TotalMinutes * 0.10;
-            double igv = sub_total * 0.18;
+            double sub_total = Math.Round(ticket.minutos.TotalMinutes * 0.10, 2);
+            double igv = Math.Round(sub_total * 0.18, 2);
             double total = Math.Round(sub_total+igv,2);
             ConnectionString();
             con.Open();
@@ -270,8 +270,8 @@ namespace Sistema_Playa_Estacionamiento.Class.DataBase
         {
             bool resultado = false;
             int res = -1;
-            double sub_total = ticket.minutos.TotalMinutes * 0.10;
-            boleta.igv = sub_total * 0.18;
+            double sub_total = Math.Round(ticket.minutos.TotalMinutes * 0.10, 2);
+            boleta.igv = Math.Round(sub_total * 0.18,2);
             String dni = ticket.dni;
             int id_boleta = boletaCab.id_boleta;
             
@@ -352,11 +352,10 @@ namespace Sistema_Playa_Estacionamiento.Class.DataBase
             ConnectionString();
             con.Open();
             cmd.Connection = con;
-            cmd.CommandText = "SELECT t.placa, c.dni, c.nombre, c.apellido, t.fecha_ingreso, t.hora_ingreso, t.fecha_salida, t.hora_salida, " +
-                      "TIMESTAMPDIFF(MINUTE, CONCAT(t.fecha_ingreso, ' ', t.hora_ingreso), CONCAT(t.fecha_salida, ' ', t.hora_salida)) AS total_minutes " +
+            cmd.CommandText = "SELECT t.placa, c.dni, c.nombre, c.apellido, t.fecha_ingreso, t.hora_ingreso, t.fecha_salida, t.hora_salida,t.minutos " +
                       "FROM tickets t " +
                       "JOIN clientes c ON t.dni_clientes = c.DNI " +
-                      "WHERE t.pagado = 1";
+                      "WHERE t.pagado = " + 1 +" ";
 
 
 
@@ -367,11 +366,10 @@ namespace Sistema_Playa_Estacionamiento.Class.DataBase
             {
                 while (dr.Read())
                 {
-                    double totalMinutes = dr.GetDouble(8);
 
-                    double subtotal = totalMinutes * 0.10;
-                    double igv = subtotal * 0.18;
-                    double total = subtotal + igv;
+                    double subtotal = Math.Round(dr.GetTimeSpan(8).TotalMinutes* 0.10,2);
+                    double igv = Math.Round(subtotal * 0.18,2);
+                    double total = Math.Round(subtotal + igv,2);
                     lista.Add(new Ticket
                     {
                         placa = dr.GetString(0),

@@ -40,37 +40,44 @@ namespace Sistema_Playa_Estacionamiento
 
             if (conectarBD.RegistrarPago(ticket))
             {
-                conectarBD.ObtenerTicket(ticket);
                 
 
                 if (rbBoleta.Checked)
                 {
+                    conectarBD.ObtenerTicket(ticket);
+
                     boletaSerie = conectarBD.ObtenerSerie(1); 
                     int siguienteNumero = boletaSerie.cantidad_emitida + 1;
                     boletaCab.numero_boleta = boletaSerie.serie + "-" + siguienteNumero;
+                    conectarBD.ActualizarSerie(boletaSerie);
 
                     conectarBD.RegistrarBoletaCab(boletaCab, ticket,boletaSerie);
                     boletaCab.id_boleta = conectarBD.ObtenerIdBoletaCab(ticket);
                     conectarBD.RegistrarBoletaDet(boletaDet, ticket, boletaCab);
 
-                    conectarBD.ActualizarSerie(boletaSerie);
                     conectarBD.ActualizarPagado(ticket);
-                    conectarBD.MostrarTicketPagar();
+                    txtPlaca.Text = "";
+                    rbBoleta.Checked = false;
+                    dtgwPagar.DataSource = conectarBD.MostrarTicketPagar();
                     MessageBox.Show("Pago registrado correctamente y Boleta emitida");
                 }
                 else if (rbFactura.Checked)
                 {
+                    conectarBD.ObtenerTicket(ticket);
+
                     boletaSerie = conectarBD.ObtenerSerie(2);
                     int siguienteNumero = boletaSerie.cantidad_emitida + 1;
                     boletaCab.numero_boleta = boletaSerie.serie + "-" + siguienteNumero;
+                    conectarBD.ActualizarSerie(boletaSerie);
 
                     conectarBD.RegistrarBoletaCab(boletaCab, ticket,boletaSerie);
                     boletaCab.id_boleta = conectarBD.ObtenerIdBoletaCab(ticket);
                     conectarBD.RegistrarBoletaDet(boletaDet, ticket, boletaCab);
 
-                    conectarBD.ActualizarSerie(boletaSerie);
                     conectarBD.ActualizarPagado(ticket);
-                    conectarBD.MostrarTicketPagar();
+                    txtPlaca.Text = "";
+                    rbFactura.Checked = false;
+                    dtgwPagar.DataSource = conectarBD.MostrarTicketPagar();
                     MessageBox.Show("Pago registrado correctamente y Factura emitida");
                 }
                
@@ -102,6 +109,8 @@ namespace Sistema_Playa_Estacionamiento
             dtgwPagar.Columns["hora_ingreso"].HeaderText = "Hora de ingreso";
             dtgwPagar.Columns["hora_salida"].HeaderText = "Hora de salida";
             dtgwPagar.Columns["minutos"].HeaderText = "Tiempo de estacionamiento";
+            dtgwPagar.Columns["subtotal"].HeaderText = "Subtotal";
+            dtgwPagar.Columns["igv"].HeaderText = "IGV(18%)";
             dtgwPagar.Columns["total"].HeaderText = "Monto total a pagar";
         }
 
