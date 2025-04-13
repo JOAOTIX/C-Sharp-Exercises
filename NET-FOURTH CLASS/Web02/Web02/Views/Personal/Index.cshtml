@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome to page Personal</h2>
+
+<h3>Tabla de usuarios:</h3>
+<table border="1">
+    <tr>
+        <th>Lista de empleados:</th>
+    </tr>
+    <tbody>
+        @foreach (var elem in ViewBag.NameList)
+        {
+            <tr> <td>@elem</td></tr>
+
+        }
+    </tbody>
+</table>
+

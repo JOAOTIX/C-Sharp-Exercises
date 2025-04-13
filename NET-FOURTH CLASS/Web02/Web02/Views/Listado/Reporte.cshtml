@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Web02.Models.Cliente>
+
+@{
+    ViewBag.Title = "Reporte";
+}
+
+<h1>Reporte de clientes</h1>
+
+<h2>Clientes:</h2>
+<table border="1">
+    <tr>
+        <th>DNI</th>
+        <th>NOMBRE</th>
+        <th>APELLIDO</th>
+        <th>EDAD</th>
+    </tr>
+      <tbody>
+          @if (Model != null)
+            {
+                foreach(var elem in Model)
+                {
+                    <tr>
+                        <td>@elem.dni</td>
+                        <td>@elem.name</td>
+                        <td>@elem.lastName</td>
+                        <td>@elem.age</td>
+                    </tr>
+              }
+          }
+      </tbody>
+</table>
+
+

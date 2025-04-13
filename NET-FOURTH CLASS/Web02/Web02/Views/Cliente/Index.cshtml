@@ -1,0 +1,16 @@
+﻿@model Web02.Models.Cliente
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>@ViewBag.Message</h1>
+
+<h2>Tus datos son </h2>
+<div>
+    Dni: @Model.dni<br />
+    Nombre:@Model.name <br />
+    Apellido: @Model.lastName<br />
+    Edad: @Model.age <br />
+
+</div>
