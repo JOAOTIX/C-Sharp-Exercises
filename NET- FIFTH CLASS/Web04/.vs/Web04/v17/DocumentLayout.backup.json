@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\web04\\views\\gestionar\\editarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\views\\gestionar\\editarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|c:\\users\\kjhonatan\\source\\repos\\net- fifth class\\web04\\web04\\models\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\models\\conectarbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\web04\\controllers\\gestionarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\controllers\\gestionarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\web04\\views\\gestionar\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\views\\gestionar\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\web04\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\web04\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\web04\\views\\gestionar\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73EB267C-6520-43C4-B694-EE5EFE1A852B}|Web04\\Web04.csproj|solutionrelative:web04\\views\\gestionar\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditarProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Views\\Gestionar\\EditarProducto.cshtml",
+              "RelativeDocumentMoniker": "Web04\\Views\\Gestionar\\EditarProducto.cshtml",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Views\\Gestionar\\EditarProducto.cshtml",
+              "RelativeToolTip": "Web04\\Views\\Gestionar\\EditarProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T17:56:26.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Save.cshtml",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Views\\Gestionar\\Save.cshtml",
+              "RelativeDocumentMoniker": "Web04\\Views\\Gestionar\\Save.cshtml",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Views\\Gestionar\\Save.cshtml",
+              "RelativeToolTip": "Web04\\Views\\Gestionar\\Save.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T17:40:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Web04\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Models\\Producto.cs",
+              "RelativeToolTip": "Web04\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:24:39.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Web04\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Web04\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:15:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConectarBD.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Models\\ConectarBD.cs",
+              "RelativeDocumentMoniker": "Web04\\Models\\ConectarBD.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Models\\ConectarBD.cs",
+              "RelativeToolTip": "Web04\\Models\\ConectarBD.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:50:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionarController.cs",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Controllers\\GestionarController.cs",
+              "RelativeDocumentMoniker": "Web04\\Controllers\\GestionarController.cs",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Controllers\\GestionarController.cs",
+              "RelativeToolTip": "Web04\\Controllers\\GestionarController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:10:22.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Views\\Gestionar\\Home.cshtml",
+              "RelativeDocumentMoniker": "Web04\\Views\\Gestionar\\Home.cshtml",
+              "ToolTip": "C:\\Users\\KJhonatan\\source\\repos\\NET- FIFTH CLASS\\Web04\\Web04\\Views\\Gestionar\\Home.cshtml",
+              "RelativeToolTip": "Web04\\Views\\Gestionar\\Home.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T16:10:21.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

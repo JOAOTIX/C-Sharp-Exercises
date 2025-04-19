@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Web04.Models.Producto>
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>LISTADO DE PRODUCTOS</h2>
+<table border="1">
+    <tr>
+        <th>CODIGO</th>
+        <th>PRODUCTO</th>
+        <th>PRECIO</th>
+        <th>STOCK</th>
+        <th>ESTADO</th>
+        <th>Eliminar</th>
+        <th>Editar</th>
+    </tr>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var prod in Model)
+            {
+                <tr>
+                    <td>@prod.code</td>
+                    <td>@prod.name</td>
+                    <td>@prod.price</td>
+                    <td>@prod.stock</td>
+                    <td>@prod.state</td>
+                    <td><a href="@Url.Action("EditarProducto", new {code=prod.code})">Editar</a></td>
+                    <td><a href="@Url.Action("EliminarProducto", new {code=prod.code})">Eliminar</a></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<a href="/Gestionar/Agregar">Agregar Producto</a>
+
+
